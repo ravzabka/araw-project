@@ -1,4 +1,3 @@
-// DEMO JOKE APP
 import formatTime from "./formatTime"
 import "./styles/main.scss"
 
